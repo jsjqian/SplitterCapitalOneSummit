@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Please put your application's app ID and keys here -->
+    <string name="parse_app_id">aQH0nQiDK14rLaICnAq7WGBfk8lHvLIY7LSIjqnO</string>
+    <string name="parse_client_key">iTe9iwvXrYz7LOXggDPTWqvubgBZdD3ieFyfhdnM</string>
+    <string name="facebook_app_id">588964617818590</string>
+    <string name="twitter_consumer_key">Qhd3eHCCC7G4njf1uw1YZnqo2</string>
+    <string name="twitter_consumer_secret">77S7r4w7L1Vz6AzL6tkqRSCJ2TTCwZGczxdmmtPhny6KvjU026</string>
+
+    <string name="app_name">Splitter</string>
+    <string name="profile_logo_content_description">Logo</string>
+    <string name="profile_title_logged_in">Your are logged in as</string>
+    <string name="profile_logout_button_label">Log out</string>
+    <string name="profile_title_logged_out">You must be logged in to view your profile</string>
+    <string name="profile_login_button_label">Log in</string>
+    <string name="open_camera">Open Camera</string>
+    <string name="already_in_group">You are already in a group:</string>
+
+    <string name="title_activity_camera">CameraActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="title_activity_in_group">InGroupActivity</string>
+</resources>
